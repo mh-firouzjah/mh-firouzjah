@@ -2,7 +2,14 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mh-firouzjah.mh-firouzjah)
 
-## I'm Open To Work, Please inform me if you're searching for a python/django developer
+## Seeking New Opportunities and Relocation Assistance
+
+**If you are hiring or know of any openings, I would appreciate the chance to discuss how my skills and experience align with your needs.**
+
+I am a seasoned Python/Django developer actively seeking career opportunities outside my current location. My goal is to find a role with visa sponsorship and relocation assistance to secure a better future for my family. I bring significant expertise and experience in software development and am confident in my ability to contribute effectively.  
+If you know of any opportunities or can provide assistance, I would greatly appreciate your support.
+
+---
 
 Welcome to my GitHub profile! I'm a Father, an ATCo and a Pythonista.  
 A developer passionate about leveraging technology to solve real-world challenges.
@@ -15,7 +22,7 @@ A developer passionate about leveraging technology to solve real-world challenge
 
 ## Projects
 
-- [Initial Flight Plans Processing System (IFPS)](#): A customized application developed to enhance efficiency and safety in air traffic management.
+- [Initial Flight Plans Processing System (IFPS)](#): A customized application developed to enhance efficiency and safety in air traffic flow management.
 - [Contribution](https://github.com/microsoft/vscode-python/compare/main...mh-firouzjah:vscode-python:mh-firouzjah-patch-v2) to vscode-python extension to make it able discovering and running Django tests.
 - [ShiftBoard Scraper](https://github.com/mh-firouzjah/shiftboard_scrapper): A simple webscraper that will take an screenshot of the target page and sends the photo to specified telegram user.
 - [ZSH Config](https://github.com/mh-firouzjah/zsh-config): A custom Zsh configuration that includes a variety of useful features and customizations.
